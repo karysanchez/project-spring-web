@@ -13,7 +13,7 @@ import org.springframework.beans.factory.annotation.Value;
 import com.karosanpu.projectspringweb.services.SpringService;
 
 /**
- * @author DevPredator
+ * @author ksanchezpu
  * Controlador de ejemplo para demostrar la integracion de Spring con JSF.
  */
 @ManagedBean

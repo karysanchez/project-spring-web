@@ -10,7 +10,7 @@ import com.karosanpu.projectspringweb.dao.EmpleadoDAO;
 import com.karosanpu.projectspringweb.services.SpringService;
 
 /**
- * @author DevPredator
+ * @author ksanchezpu
  *
  */
 @Service

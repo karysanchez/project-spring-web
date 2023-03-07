@@ -4,7 +4,7 @@
 package com.karosanpu.projectspringweb.dao;
 
 /**
- * @author 4PF28LA_2004
+ * @author ksanchezpu
  *
  */
 public interface EmpleadoDAO {

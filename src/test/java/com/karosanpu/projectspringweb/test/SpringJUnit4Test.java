@@ -14,7 +14,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.karosanpu.projectspringweb.services.SpringService;
 
 /**
- * @author DevPredator
+ * @author ksanchezpu
  * Clase de Prueba Unitaria con Spring y JUNIT 4.
  * NOTA: No tiene soporte Spring Test para JUnit5.
  */
